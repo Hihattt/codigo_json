@@ -1,14 +1,14 @@
 {
 
-    "herramientas":[
+    "codigos":[
         {
-            "codigo":"JavaScript",
+            "nombre":"JavaScript",
             "avatar":"https://programarfacil.com/wp-content/uploads/2015/07/js-logo.png"
         },  {
-            "codigo":"Bootstrap",
+            "nombre":"Bootstrap",
             "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCbaeUlp7jB0oD4eAWjey_-4YNtBMdjCFzA&usqp=CAU"
         },{
-            "codigo":"CSS",
+            "nombre":"CSS",
             "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu9e6yhMoyT9-gMJucYJLXkNaW6vJHOs9jtHjSY9BpNSGS514JPjwe5gW9WvxTEli5bOw&usqp=CAU"
         }
 
